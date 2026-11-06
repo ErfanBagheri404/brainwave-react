@@ -14,9 +14,6 @@ React - Vite - Tailwind - react-just-parallax - scroll-lock - react-router.
 ```bash
 git clone https://github.com/ErfanBagheri404/brainwave-react.git
 cd brainwave-react
-```
-
-```bash
 npm install
 npm run dev
 ```
